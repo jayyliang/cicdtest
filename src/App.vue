@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <div id="nav">
+    <h1>登哥是大傻逼吧</h1>
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link>
     </div>
